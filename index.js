@@ -45,3 +45,5 @@ document.addEventListener('keydown', displayKeyPress);
 document
   .getElementById('textInput')
   .addEventListener('input', displayUserInput);
+
+  //inserting this comment here to re-do submission - keep getting error messages
